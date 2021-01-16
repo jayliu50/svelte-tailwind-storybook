@@ -1,4 +1,4 @@
-# Svelte Tailwind Storybook #
+# Svelte Tailwind Storybook Jest #
 
 ## Dependencies ##
 
